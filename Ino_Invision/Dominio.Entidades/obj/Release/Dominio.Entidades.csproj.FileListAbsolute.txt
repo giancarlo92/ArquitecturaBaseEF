@@ -1,0 +1,6 @@
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Release\Dominio.Entidades.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Release\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Release\Dominio.Entidades.pdb

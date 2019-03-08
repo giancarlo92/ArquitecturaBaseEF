@@ -1,0 +1,5 @@
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.pdb

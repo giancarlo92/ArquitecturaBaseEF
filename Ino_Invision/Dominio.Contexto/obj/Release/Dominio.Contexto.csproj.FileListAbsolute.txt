@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Release\Dominio.Contexto.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Release\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Release\Dominio.Contexto.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Release\Dominio.Contexto.pdb
