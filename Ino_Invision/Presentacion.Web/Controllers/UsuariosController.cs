@@ -8,14 +8,19 @@ namespace Presentacion.Web.Controllers.Api
 {
     public class UsuariosController : ApiController
     {
-        IGestorDeUsuarios _gestorDeUsuarios = new GestorDeUsuarios();
+        IGestorDeUsuarios _gestorDeUsuarios;
+
+        public UsuariosController(IGestorDeUsuarios gestorDeUsuarios)
+        {
+            this._gestorDeUsuarios = gestorDeUsuarios;
+        }
 
         [HttpPost]
         public UsuarioLogin Login(UsuarioLoginModel usuarioLogin)
         {
             string usuario = usuarioLogin.usuario;
             string clave = usuarioLogin.clave;
-            return _gestorDeUsuarios.Login(usuario, clave);
+            return this._gestorDeUsuarios.Login(usuario, clave);
         }
     }
 }

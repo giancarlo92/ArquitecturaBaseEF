@@ -15,3 +15,9 @@ C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb

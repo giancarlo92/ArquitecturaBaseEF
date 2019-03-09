@@ -11,7 +11,7 @@ namespace Servicios.Interfaces.Usuario.Peticiones
         public string usuario { get; set; }
         public string nombres { get; set; }
         public string apepat { get; set; }
-        public int idrol { get; set; }
+        public int? idrol { get; set; }
         public string rol { get; set; }
         public int estado { get; set; }
     }

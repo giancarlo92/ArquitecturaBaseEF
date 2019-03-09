@@ -15,3 +15,9 @@ C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Inter
 C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
 C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb

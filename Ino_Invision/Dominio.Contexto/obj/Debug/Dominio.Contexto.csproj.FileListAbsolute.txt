@@ -38,3 +38,17 @@ C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.cs
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
 C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb

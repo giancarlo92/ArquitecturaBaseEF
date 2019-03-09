@@ -46,6 +46,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=4.9.1.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.9.1\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.Mvc5.4.0.2\lib\net45\Autofac.Integration.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.WebApi, Version=4.2.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.WebApi2.4.2.0\lib\net45\Autofac.Integration.WebApi.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -263,6 +272,14 @@
     <ProjectReference Include="..\Dominio.Entidades\Dominio.Entidades.csproj">
       <Project>{f0df7833-718f-4a44-aa83-28db4ee15aa5}</Project>
       <Name>Dominio.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructura.InyeccionDependencia\Infraestructura.InyeccionDependencia.csproj">
+      <Project>{94aa0e04-31b4-4f7b-b159-ae51cd0f7ff0}</Project>
+      <Name>Infraestructura.InyeccionDependencia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructura.Transformacion\Infraestructura.Transformacion.csproj">
+      <Project>{00a5c2c1-a40d-46fc-bb67-52c07843a4a9}</Project>
+      <Name>Infraestructura.Transformacion</Name>
     </ProjectReference>
     <ProjectReference Include="..\Servicios.Implementacion\Servicios.Implementacion.csproj">
       <Project>{5a983aac-4912-4046-ad6a-3723db579633}</Project>

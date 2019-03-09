@@ -1,0 +1,12 @@
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.pdb
